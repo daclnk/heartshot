@@ -1,2 +1,2 @@
-# heartshot
-# barclub
+# heart.sacmau.mobi
+# barclub.sacmau.mobi
